@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nardo021&label=Profile%20views&color=d10000&style=flat" alt="nardo021" /> </p>
 
-- 🔭 I’m currently working on **Zinc Client (A Minecraft 1.8.9 Utility Mod)**
+- 🔭 I’m currently working on **Every thing**
 
 - 🌱 I’m currently learning **Vue3+SpringBoot**
 
-- 👯 I’m looking to collaborate on **Zinc Client (A Minecraft 1.8.9 Utility Mod)**
+- 👯 I’m looking to collaborate on **Cool Java Projects :)**
 
 - 📫 How to reach me **contact@leoze.top**
 
