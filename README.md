@@ -23,9 +23,11 @@
 
 ## About me
 
-I'm a student in Australia who spends a lot of time coding and making music in Ableton Live. I like trying out ideas and building things I'd actually use.
+I'm Leo, a student and developer based in Australia.
 
-When I'm not doing either, I'm probably playing Minecraft or CS2.
+I enjoy coding, exploring new technologies, and building things that I find interesting or useful. I mostly work on personal projects and enjoy learning along the way.
+
+Outside of coding, I'm into music production, gaming, and pretty much anything tech-related.
 
 ## Languages
 
