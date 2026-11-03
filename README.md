@@ -3,19 +3,18 @@
 # Hi, I'm Leo 👋
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1100&color=FF5304&center=true&vCenter=true&width=540&height=45&lines=Student+%C2%B7+Developer+%C2%B7+Music+Producer;Usually+coding+or+making+music;Sometimes+both"
-  alt="Student, developer, and music producer"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=FF5304&center=true&vCenter=true&width=600&height=45&lines=I+build+things+I+want+to+use.;Usually+working+on+another+side+project."
+  alt="I build things I want to use. Usually working on another side project."
 />
 
 <br />
 
 <a href="https://yanze.me">
-  <img src="https://img.shields.io/badge/Website-yanze.me-FF5304?style=flat-square&logo=safari&logoColor=white" alt="Personal website" />
+  <img src="https://img.shields.io/badge/Website-yanze.me-FF5304?style=flat-square&logo=safari&logoColor=white" alt="Website" />
 </a>
 <a href="https://yaazyy.com">
-  <img src="https://img.shields.io/badge/Music-Yaazyy-24292F?style=flat-square&logo=applemusic&logoColor=white" alt="Music website" />
+  <img src="https://img.shields.io/badge/Music-Yaazyy-24292F?style=flat-square&logo=applemusic&logoColor=white" alt="Music" />
 </a>
-<img src="https://img.shields.io/badge/Based_in-Australia-24292F?style=flat-square" alt="Based in Australia" />
 
 </div>
 
@@ -23,11 +22,9 @@
 
 ## About me
 
-I'm Leo, a student and developer based in Australia.
+I enjoy coding, trying out new ideas, and building things I find useful. I'm usually tinkering with a side project or learning something new.
 
-I enjoy coding, exploring new technologies, and building things that I find interesting or useful. I mostly work on personal projects and enjoy learning along the way.
-
-Outside of coding, I'm into music production, gaming, and pretty much anything tech-related.
+Outside of coding, I make music and play games.
 
 ## Languages
 
@@ -82,7 +79,7 @@ Outside of coding, I'm into music production, gaming, and pretty much anything t
     <img
       height="165"
       src="https://github-stats-extended.vercel.app/api?username=Nardo021&show_icons=true&hide_border=true&title_color=FF5304&text_color=24292F&icon_color=FF5304&bg_color=00000000"
-      alt="Leo's GitHub statistics"
+      alt="GitHub statistics"
     />
   </picture>
   <picture>
@@ -97,7 +94,7 @@ Outside of coding, I'm into music production, gaming, and pretty much anything t
     <img
       height="165"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nardo021&layout=compact&hide_border=true&title_color=FF5304&text_color=24292F&bg_color=00000000"
-      alt="Most used languages in Leo's public repositories"
+      alt="Most used languages across GitHub repositories"
     />
   </picture>
 </p>
