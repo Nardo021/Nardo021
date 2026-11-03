@@ -1,6 +1,13 @@
 <div align="center">
 
-# Hi, I'm Leo <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="35" alt="Waving hand" />
+<h1 align="center">
+  Hi, I'm Leo
+  <img
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7"
+    width="36"
+    alt="Waving hand"
+  />
+</h1>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=FF5304&center=true&vCenter=true&width=600&height=45&lines=I+build+things+I+want+to+use.;Usually+working+on+another+side+project."
@@ -10,24 +17,24 @@
 <br />
 
 <a href="https://yanze.me">
-  <img src="https://img.shields.io/badge/Website-yanze.me-FF5304?style=flat-square&logo=safari&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/Website-yanze.me-FF5304?style=flat-square&logo=safari&logoColor=white" alt="Website: yanze.me" />
 </a>
 <a href="https://yaazyy.com">
-  <img src="https://img.shields.io/badge/Music-Yaazyy-24292F?style=flat-square&logo=applemusic&logoColor=white" alt="Music" />
+  <img src="https://img.shields.io/badge/Music-Yaazyy-24292F?style=flat-square&logo=applemusic&logoColor=white" alt="Music: Yaazyy" />
 </a>
 
 </div>
 
 ---
 
+## About me
+
 <img
   align="right"
-  width="220"
+  width="160"
   src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
-  alt="Coding animation"
+  alt="Animated coding illustration"
 />
-
-## About me
 
 I enjoy coding, trying out new ideas, and building things I find useful. I'm usually tinkering with a side project or learning something new.
 
@@ -39,7 +46,7 @@ Outside of coding, I make music and play games.
   <img
     src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
     width="100%"
-    alt="Animated divider"
+    alt="Animated fading divider"
   />
 </p>
 
@@ -111,10 +118,12 @@ Outside of coding, I make music and play games.
     <img
       height="165"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nardo021&layout=compact&hide_border=true&title_color=FF5304&text_color=24292F&bg_color=00000000"
-      alt="Most used languages across GitHub repositories"
+      alt="Top languages in GitHub repositories"
     />
   </picture>
 </p>
+
+<br />
 
 <p align="center">
   <picture>
@@ -127,9 +136,9 @@ Outside of coding, I make music and play games.
       srcset="https://raw.githubusercontent.com/Nardo021/Nardo021/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub contribution snake"
       src="https://raw.githubusercontent.com/Nardo021/Nardo021/output/github-contribution-grid-snake.svg"
       width="100%"
+      alt="Animated GitHub contribution snake"
     />
   </picture>
 </p>
