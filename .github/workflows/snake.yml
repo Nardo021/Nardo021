@@ -5,23 +5,23 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-jobs:
-  generate:
-    permissions:
-      contents: write
+permissions:
+  contents: write
 
+jobs:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: nardo021
+          github_user_name: Nardo021
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF5304&color_dots=#161B22,#2d1b14,#5a2a16,#a63f14,#FF5304
 
-      - name: Push snake animation to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
