@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Leo 👋
+# Hi, I'm Leo <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="35" alt="Waving hand" />
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=FF5304&center=true&vCenter=true&width=600&height=45&lines=I+build+things+I+want+to+use.;Usually+working+on+another+side+project."
@@ -20,11 +20,28 @@
 
 ---
 
+<img
+  align="right"
+  width="220"
+  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+  alt="Coding animation"
+/>
+
 ## About me
 
 I enjoy coding, trying out new ideas, and building things I find useful. I'm usually tinkering with a side project or learning something new.
 
 Outside of coding, I make music and play games.
+
+<br clear="right" />
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    width="100%"
+    alt="Animated divider"
+  />
+</p>
 
 ## Languages
 
@@ -95,6 +112,24 @@ Outside of coding, I make music and play games.
       height="165"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nardo021&layout=compact&hide_border=true&title_color=FF5304&text_color=24292F&bg_color=00000000"
       alt="Most used languages across GitHub repositories"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Nardo021/Nardo021/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Nardo021/Nardo021/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Nardo021/Nardo021/output/github-contribution-grid-snake.svg"
+      width="100%"
     />
   </picture>
 </p>
